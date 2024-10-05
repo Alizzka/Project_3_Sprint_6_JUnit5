@@ -1,5 +1,7 @@
 # Игнорировать папки:
-target/
+target/*
+!target/site/
+!target/site/jacoco/
 resources/
 .idea/
 
